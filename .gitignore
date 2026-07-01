@@ -1,0 +1,10 @@
+# Build output
+build/
+
+# Compiled objects & binaries
+*.o
+*.out
+MarketSim
+
+# macOS
+.DS_Store
